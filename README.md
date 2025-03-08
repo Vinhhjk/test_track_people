@@ -1,5 +1,10 @@
 # Tracking People (Test)
 Test
+
+## Clone the Repository
+```bash
+git clone https://github.com/Vinhhjk/dap_project
+```
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
